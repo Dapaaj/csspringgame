@@ -1,0 +1,8 @@
+startRoom,hallway,north,
+hallway,Startroom,South,
+hallway,treasureroom,north,
+treasureroom,hallway,south,
+startRoom You are in a dimly lit room. hallway north treasureRoom
+hallway You are in a long hallway. startRoom south treasureRoom north
+treaureRoom You are in a room filled with gold. hallway south startRoom
+```
